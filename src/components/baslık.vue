@@ -23,7 +23,7 @@
 
 
     <div id="maindiv">
-        <div id="div1"><a href="http://www.google.com"><img src='../assets/glogo.png'></a></div>
+        <div id="div1"><img src='../assets/glogo.png'><a href="./Urun1.vue"></a></div>
         <div id="app-6" class="div2"><input id="aramamotoru" v-model="message" type="text" placeholder="Ürün,kategori veya marka ara">
             
                 

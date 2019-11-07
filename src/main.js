@@ -10,8 +10,10 @@ import VueCarousel from 'vue-carousel';
 //-------------------------------
 import VModal from 'vue-js-modal'
 
+
 Vue.use(VModal)
 //-------------------------------
+
 Vue.use(VueCarousel);
 Vue.use(VueMaterial)
 
@@ -19,7 +21,7 @@ window.$=window.jQuery=jQuery;
 Vue.config.productionTip = false
 
 new Vue({
-  router,
+router,
   store,
   render: h => h(App)
 }).$mount('#app')
