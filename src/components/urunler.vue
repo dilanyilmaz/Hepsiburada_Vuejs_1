@@ -58,7 +58,7 @@
           
         
         <md-card-actions >
-          <md-button  style="margin:25px;font-size:12px">Sepete Ekle</md-button>
+         <Alert/>
         </md-card-actions>
            
       </md-ripple>
@@ -89,7 +89,7 @@
           
         
         <md-card-actions >
-          <md-button  style="margin:25px;font-size:12px">Sepete Ekle</md-button>
+         <Alert/>
         </md-card-actions>
            
       </md-ripple>
@@ -121,8 +121,8 @@
         </md-card-content>
           
         
-        <md-card-actions >
-          <md-button  style="margin:25px;font-size:12px">Sepete Ekle</md-button>
+         <md-card-actions >
+         <Alert/>
         </md-card-actions>
            
       </md-ripple>
@@ -152,8 +152,8 @@
         </md-card-content>
           
         
-        <md-card-actions >
-          <md-button  style="margin:25px;font-size:12px">Sepete Ekle</md-button>
+      <md-card-actions >
+         <Alert/>
         </md-card-actions>
            
       </md-ripple>
@@ -183,8 +183,8 @@
         </md-card-content>
           
         
-        <md-card-actions >
-          <md-button  style="margin:25px;font-size:12px">Sepete Ekle</md-button>
+   <md-card-actions >
+         <Alert/>
         </md-card-actions>
            
       </md-ripple>
