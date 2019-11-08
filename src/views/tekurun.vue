@@ -50,22 +50,21 @@
             </vueper-slides>
        </div>
        </div>
-      <div style="padding:800px;padding-bottom:120px;   ">
-          <tabmenu/>
-      </div>
+    
 
 
  </div>
 </template>
 <style >
-body { padding-top: 40px; }
+body { padding-top: 18px;
+background-color: white; }
 </style>
 
 <script>
 
 import BSlider1 from '../components/buyukslider';
 
-import tabmenu from '../components/tabmenu';
+//import tabmenu from '../components/tabmenu';
 
 import { VueperSlides, VueperSlide } from 'vueperslides'
 
@@ -75,7 +74,7 @@ export default {
   components:{
     VueperSlides, VueperSlide,
     BSlider1,
-    tabmenu
+  //  tabmenu
   },
   data: () => ({
   slides: [

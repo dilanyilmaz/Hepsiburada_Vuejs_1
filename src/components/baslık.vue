@@ -1,7 +1,7 @@
 <template>
     <div>
 
-    <header class="main-header"><img src='https://tpc.googlesyndication.com/pagead/imgad?id=CICAgKCn7NzmugEQARgBMggBmFUNk0FfRQ'/></header>
+    <header class="main-header" ><img src='https://tpc.googlesyndication.com/pagead/imgad?id=CICAgKCn7NzmugEQARgBMggBmFUNk0FfRQ'/></header>
     <div id="hepsi">
         <ul>
             <li><a href="#">Siparişleri</a></li>
@@ -29,10 +29,16 @@
                 
                 
         </div>
-        <div id="div3"><button id="girisButonu">Giriş Yap<a id="if">
-                    <p>veya üye ol </p>
+        <div id="div3"><button id="girisButonu"><img src="https://www.simplyhealth.co.uk/shcore/sh/furniture/images/svgs/top-nav-account-icon.svg" width="45px" style=" margin-top:-20px;margin-left:5px;">Giriş Yap<a id="if">
+                 <p>veya üye ol </p>
                 </a></button></div>
-        <div id="div4"><button id="sepetim">Sepetim</button></div>
+        <div id="div4">
+             <button id="sepetim">
+            
+            <div ><img style="float:left;" src="https://st2.depositphotos.com/1007712/5195/v/950/depositphotos_51956705-stock-illustration-shopping-cart-icon-set.jpg" width="30px" ></div>
+            <div style="float:left;">Sepetim</div>
+            </button>
+       </div>
     </div>
     <header id="ekleme"></header>
 
@@ -1069,6 +1075,7 @@
 <style>
 .main-header{
     background-color: black;
+    margin-top:-15px;
 }
 body{
     background-color:orange;
@@ -1193,7 +1200,7 @@ p{
 }
 #div1{
     margin-top:-20px;
-    left:100px;
+    left:130px;
     width:300px;
     background-color: white;
     float: left;
