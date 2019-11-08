@@ -1,7 +1,7 @@
 <template>
 <div class="anadiv">
 <div class="cizgi">
-  <div>dvfvdf</div>
+  <div>Markalar</div>
   <div>
   <md-content class="md-scrollbar" style="text-align:left;">  
    <p><input type="checkbox"/><label>Lenovo(248)</label></p>
@@ -20,7 +20,7 @@
   </div>  
 </div>
 <div class="cizgi">
-  <div>dvfvdf</div>
+  <div>Fırsat Ürünleri</div>
   <div>
   <md-content class="md-scrollbar" style="text-align:left;">  
    <p><input type="checkbox"/><label>Lenovo(248)</label></p>
@@ -39,7 +39,7 @@
   </div>  
 </div>
 <div class="cizgi">
-  <div>dvfvdf</div>
+  <div>Satıcı</div>
   <div>
   <md-content class="md-scrollbar" style="text-align:left;">  
    <p><input type="checkbox"/><label>Lenovo(248)</label></p>
@@ -58,7 +58,7 @@
   </div>  
 </div>
 <div class="cizgi">
-  <div>dvfvdf</div>
+  <div>İşlemci Tipi</div>
   <div>
   <md-content class="md-scrollbar" style="text-align:left;">  
    <p><input type="checkbox"/><label>Lenovo(248)</label></p>
@@ -77,7 +77,7 @@
   </div>  
 </div>
 <div class="cizgi">
-  <div>dvfvdf</div>
+  <div>İşlemci</div>
   <div>
   <md-content class="md-scrollbar" style="text-align:left;">  
    <p><input type="checkbox"/><label>Lenovo(248)</label></p>
